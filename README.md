@@ -4,6 +4,5 @@ This is a simple program for inviting you to go for a walk. The "No" button will
 After pressing the button, a window will open with the inscription "Today at 12:00" (you can change it to the desired time and day).
 <br><br>
 Сreated using the following libraries:
-* Tkinter
-* Random
-
+* [Tkinter](https://docs.python.org/3/library/tkinter.html)
+* [Random](https://docs.python.org/3/library/random.html)
